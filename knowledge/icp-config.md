@@ -1,51 +1,53 @@
-# ICP & Offer Config — FILL THIS IN FIRST
+# ICP & Offer Config
 
-> **Nothing works until this file is filled.** The playbook's rule is "market
-> first." All three agents read this file to know who to target, what to say,
-> and what you sell. Replace every `<<...>>` placeholder. Delete this warning
-> block when done.
+> Filled for the current test campaign. Update anytime.
 
 ## 1. Market / Niche (Step 1)
 
-- **Vertical (be narrow):** <<e.g. multi-location dental clinics with 3–15 chairs in Tier-1 Indian metros>>
-- **Why this niche (1 line):** <<why you can win here>>
-- **Geography:** <<countries / cities>>
-- **Company size signals:** <<employees, locations, revenue band>>
+- **Vertical (be narrow):** Owner-led residential real estate agencies / brokerages in Bengaluru (roughly 3–15 people; founder or principal broker signs)
+- **Why this niche (1 line):** Small brokerages run high lead volume from property portals but follow up manually — a clear, ownable automation problem.
+- **Geography:** Bengaluru, India (all areas)
+- **Company size signals:** Boutique/independent brokerages and property consultancies — exclude large developers (Prestige, Embassy, Brigade, NoBroker, etc.)
 
 ## 2. Buyer (the person who signs)
 
-- **Job titles:** <<e.g. Practice Owner, Operations Manager, Clinic Director>>
-- **What they lose sleep over:** <<their real operational pain>>
-- **Where they hang out online:** <<LinkedIn groups, directories, associations>>
+- **Job titles:** Founder, Owner, Director, Managing Director, Principal Broker
+- **What they lose sleep over:** Leads from 99acres/MagicBricks/Housing going cold, no-show site visits, follow-up falling through the cracks
+- **Where they hang out online:** Agency websites, 99acres/MagicBricks agent pages, LinkedIn, local directories
 
 ## 3. The Painful Manual Process (Step 4 anchor)
 
-- **Process #1 (primary):** <<e.g. manual appointment reminders + no-show follow-up>>
-- **Process #2:** <<e.g. insurance pre-auth data entry>>
-- **Process #3:** <<...>>
-- **How you'd say it in THEIR words (not "AI"):** <<plain-language description>>
+- **Process #1 (primary):** Manual first-response + follow-up on new portal enquiries (leads cool off before anyone replies)
+- **Process #2:** Site-visit scheduling and reminders (no-shows)
+- **Process #3:** Re-posting/updating the same listing across multiple portals + WhatsApp enquiry triage
+- **How you'd say it in THEIR words:** "New enquiries slip through and go cold because someone has to reply by hand."
 
 ## 4. Offer (Step 2)
 
-- **Audit name:** <<e.g. Clinic Automation Audit>>
-- **Audit price:** <<₹40k–₹1.5L / $500–2,000>>
-- **Audit duration:** <<1–2 weeks>>
+- **Audit name:** Lead & Follow-up Automation Audit *(working name — confirm)*
+- **Audit price:** ₹40k–₹1.5L (playbook default — confirm your number)
+- **Audit duration:** 1–2 weeks
 - **Deliverables:** interviews, process map, workflow analysis, ranked opportunity list, build roadmap
-- **Credit clause:** Audit fee credited against build if signed within 30 days? <<yes/no>>
+- **Credit clause:** Audit fee credited against build if signed within 30 days — yes
 
 ## 5. Proof / Assets (ONLY real ones — never fabricate)
 
-- **Case studies / results you can honestly cite:** <<leave blank if none yet — say "new practice" instead of inventing>>
-- **Relevant background:** <<your genuine experience>>
+- **Case studies / results you can honestly cite:** NONE YET — this is a new agency. Copy must not claim client results.
+- **Relevant background:** <<Ali — add any genuine relevant experience>>
 
 ## 6. Outreach Infrastructure
 
-- **Sending Gmail account:** createhub.456@gmail.com  *(or a dedicated cold-outreach inbox)*
-- **Cold-email domains (separate from main):** <<domain1.com, domain2.com>>
-- **Booking link (for meetings):** <<Calendly/Cal.com URL — required for the sales agent to book>>
-- **Signature block:** <<Name / Agency / Phone / Link>>
+- **Sending Gmail account:** createhub.456@gmail.com  *(primary inbox — test batch only; move to a dedicated domain before scaling)*
+- **Cold-email domains (separate from main):** <<to be purchased>>
+- **Booking link (for meetings):** <<none yet — add a Calendly/Cal.com link so the sales agent can book>>
+- **Signature block:**
+  ```
+  Ali
+  CreativeHub
+  createhub.456@gmail.com
+  ```
 
 ## 7. Targets (Step 3 cadence)
 
-- **Contacts per week:** 100 (playbook default)
-- **Weekly split:** <<e.g. 40 LinkedIn + 60 email>>
+- **Contacts per week:** 100 (playbook default; test batch is smaller)
+- **Weekly split:** email-first for this test
